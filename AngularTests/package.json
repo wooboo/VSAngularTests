@@ -1,0 +1,13 @@
+{
+  "name": "AngularTests",
+  "version": "0.0.0",
+  "description": "Visual Studio Project for Tests",
+  "main": "app.js",
+  "author": {
+    "name": "WooBoo",
+    "email": "wooboox@gmail.com"
+  },
+  "devDependencies": {
+    "protractor": "^2.0.0"
+  }
+}
